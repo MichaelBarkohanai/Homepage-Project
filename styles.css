@@ -1,0 +1,66 @@
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: serif
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+
+}
+h2 {
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    font-family: serif
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+
+
+
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: 500;
+    font-family: serif
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+
+}
+h4 {
+    font-size: 1.75rem;
+    font-weight: 400;
+    font-family: serif
+    letter-spacing: 2px;
+    padding-bottom: 10px;
+}
+
+
+.button-primary {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;h1 {
+        font-size: 3rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-family: serif
+        letter-spacing: 2px;
+        padding-bottom: 10px;
+
+.button-secondary {
+     padding: 8px 10px;
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: black;
+    background-color: gray;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #3498DB;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
